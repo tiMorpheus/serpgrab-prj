@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29f4fc69-0f89-48b8-b27d-22acb2d02c48" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-404.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-calculator.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-coming-soon.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-home.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-BlackItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-BoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-ExtraBold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-ExtraBoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-ExtraLight.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-ExtraLightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-LightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-MediumItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-RegularItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-SemiBoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-Thin.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis font family/Metropolis-ThinItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Metropolis-SemiBold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Palanquin-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Palanquin-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/fonts/Palanquin.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/BG-calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/BG-calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/BG-contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/BG-contact@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/BG-home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/BG-home@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/BG-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images (2)/inspect/SerpGrabber/Page 1/Landing SerpGrabber Wide-2560/pricing calculator/BG 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images (2)/inspect/SerpGrabber/Page 1/Landing SerpGrabber Wide-2560/pricing calculator/BG 2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images (2)/inspect/SerpGrabber/Page 1/Landing SerpGrabber Wide-2560/pricing calculator/BG 2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images (2)/inspect/SerpTracker2/Page 1/Landing SerpGrabber/pricing calculator/BG 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images (3)/inspect/SerpGrabber/Page 1/A-00-01-01-comming-soon/backgound-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images (3)/inspect/SerpGrabber/Page 1/A-00-01-01-comming-soon/backgound-img@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images (3)/inspect/SerpGrabber/Page 1/A-00-01-01-comming-soon/coming-backgound@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images/inspect/SerpGrabber/Page 1/Calculator popup/Calculator/knob/Group 8/slider-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images/inspect/SerpGrabber/Page 1/Calculator popup/Calculator/knob/Group 8/slider-icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/Images/inspect/SerpGrabber/Page 1/Calculator popup/Calculator/knob/Group 8/slider-icon@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/RemotePlayInstaller.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/benefits-icon/benefit-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/benefits-icon/benefit-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/benefits-icon/benefit-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/coming-soon-bg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/features-icon/feature-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/footer-icon/footer-icon-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/html-coding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/inspect-assets (1).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/inspect-assets.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/payment-icon/mastercard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/payment-icon/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/payment-icon/visa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/slider-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/sprites.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/sprites/features-icons-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/sprites/features-icons-sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/sprites/features-icons-sprite@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/sprites/footer-icon-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/sprites/footer-icon-sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/sprites/footer-icon-sprite@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/range-slider-dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/range-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fa-brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fa-brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fa-regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fa-regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fa-solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fa-solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fontawesome-all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_shims.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/_variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/brands.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/fa-brands.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/fa-regular.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/fa-solid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/fontawesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/regular.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/solid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/less/v4-shims.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_shims.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/brands.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/fa-brands.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/fa-regular.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/fa-solid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/fontawesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/regular.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/solid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/scss/v4-shims.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/dist/bower/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/dist/responsive-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/dist/responsive-nav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/dist/styles/responsive-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/src/bower/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/src/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/src/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/src/responsive-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/src/styles/responsive-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/test/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/test/helpers.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/test/polyfills.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/client/test/responsive-nav.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/responsive-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/responsive-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/responsive-nav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scraping-modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/_404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/_coming-soon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_benefits.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_calculator.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_main-section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_plans-calculator.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_plans.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scraping-modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_home-bg.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_range-slider-dashboard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_range-slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-calculator-2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-calculator.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-coming-soon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-BlackItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-BoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-ExtraBold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-ExtraBoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-ExtraLight.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-ExtraLightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-LightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-MediumItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-RegularItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-SemiBoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-Thin.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis font family/Metropolis-ThinItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Metropolis-SemiBold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Palanquin-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Palanquin-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/fonts/Palanquin.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/js/calculator-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/js/range-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/_wp-styles/front-page-sections/_calculator.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/_wp-styles/front-page-sections/_plans.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_range-slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/style-calculator.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/styles.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/common.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/scripts.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/scripts.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-frontend/optimized_start_template/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-frontend/optimized_start_template/gulpfile.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style-calculator-2.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-calculator-2.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret column="4456" selection-end-column="11831" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calculator-home.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="221" selection-start-line="221" selection-end-line="221" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-calculator-2.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-calculator-2.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9735">
+              <caret line="649" selection-start-line="649" selection-end-line="649" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>a-font-path</find>
+      <find>home-bg</find>
+      <find>main-btn-wrap</find>
+      <find>background-s</find>
+      <find>refreshPrices</find>
+      <find>url</find>
+      <find>CalculateD</find>
+      <find>data(</find>
+      <find>tar</find>
+      <find>Metr</find>
+      <find>card-description-container</find>
+      <find>pricing-card</find>
+      <find>card-re</find>
+      <find>console.log</find>
+      <find>calculate</find>
+      <find>bulk</find>
+      <find>calc</find>
+      <find>calculateD</find>
+      <find>ba</find>
+      <find>console</find>
+      <find>free-pa</find>
+      <find>au</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-frontend/optimized_start_template" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_calculator.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-coming-soon.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_footer.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/_coming-soon.scss" />
+        <option value="&lt;0bec3c67-187c-4d0f-9742-4c9f956744d8&gt;/home/ttolochko/hosting/wp-content/themes/blazing-servers/page-26.php" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-ng.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-modal.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/api.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/gulpfile.js" />
+        <option value="&lt;d6f578f6-9da4-49be-a2c6-c31197dc73e1&gt;/home/ttolochko/proxy.wp/ttest/test.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/calculator.html" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/js/range-slider.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/style-calculator.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/markup/calculator.html" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/page-coming-soon.php" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/range-slider-dashboard.js" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/page-calculator-2.php" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-dashboard.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_contact.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_range-slider.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/range-slider.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_features.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/_nav.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_main-section.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-home.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-404.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/scripts.min.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/common.js" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/functions.php" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/header.php" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-blog.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_plans-calculator.scss" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/page-blog.php" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/single.php" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scraping-modal.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scraping-modal.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/index.html" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_plans.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_modal.scss" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/page-calculator.php" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-calculator.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_range-slider-dashboard.scss" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-page.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-calculator-2.scss" />
+        <option value="&lt;48d0a9a1-b67f-46ba-8871-bf53b82f0127&gt;/home/fiery/homes/vlad_p/app/homes/tymur/app/resources/views/user/tariff/index.blade.php" />
+        <option value="&lt;48d0a9a1-b67f-46ba-8871-bf53b82f0127&gt;/home/fiery/homes/vlad_p/app/homes/tymur/app/resources/views/user/dashboard/choose_tariff.blade.php" />
+        <option value="&lt;86aca223-a03a-47f3-bb8b-37acc845cccc&gt;/home/ttolochko/proxy.wp/wp-content/themes/blazing-landing/js/pricing/pricing.js" />
+        <option value="&lt;86aca223-a03a-47f3-bb8b-37acc845cccc&gt;/home/ttolochko/proxy.wp/wp-content/themes/blazing-landing/js/pricingTiers.js" />
+        <option value="&lt;86aca223-a03a-47f3-bb8b-37acc845cccc&gt;/home/ttolochko/proxy.wp/wp-content/themes/blazing-landing/js/priceSetter.js" />
+        <option value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-home.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/wp-frontend/optimized_start_template/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/components-font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/package.json" />
+      <path value="$PROJECT_DIR$/wp-frontend/optimized_start_template/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1617" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SERPGrabber_prj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SERPGrabber_prj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SERPGrabber_prj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SERPGrabber_prj" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SERPGrabber_prj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SERPGrabber_prj" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="optimized_start_template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SERPGrabber_prj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SERPGrabber_prj" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="optimized_start_template" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SERPGrabber_prj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SERPGrabber_prj" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="optimized_start_template" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/tymur/SERPGrabber_prj/wp-frontend/optimized_start_template/app/scss/style-blog.scss" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/tymur-tolochko-cv" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/css" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/markup" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/footer-icon" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-frontend" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/js" />
+      <recent name="$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29f4fc69-0f89-48b8-b27d-22acb2d02c48" name="Default" comment="" />
+      <created>1543589109450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543589109450</updated>
+      <workItem from="1543589110589" duration="2857000" />
+      <workItem from="1543829596106" duration="22403000" />
+      <workItem from="1543922227547" duration="9517000" />
+      <workItem from="1544004284359" duration="7558000" />
+      <workItem from="1544087585416" duration="1265000" />
+      <workItem from="1544198071852" duration="8070000" />
+      <workItem from="1544211904500" duration="1290000" />
+      <workItem from="1544349359980" duration="1208000" />
+      <workItem from="1544526286316" duration="623000" />
+      <workItem from="1544529425649" duration="1213000" />
+      <workItem from="1544611270528" duration="12442000" />
+      <workItem from="1544698525886" duration="4824000" />
+      <workItem from="1544781952378" duration="1203000" />
+      <workItem from="1545045436692" duration="5418000" />
+      <workItem from="1545067590824" duration="17776000" />
+      <workItem from="1545126221599" duration="3941000" />
+      <workItem from="1545137031867" duration="17447000" />
+      <workItem from="1545221353751" duration="3308000" />
+      <workItem from="1545245361096" duration="19537000" />
+      <workItem from="1545305330800" duration="1942000" />
+      <workItem from="1545310679902" duration="8645000" />
+      <workItem from="1545339792084" duration="2986000" />
+      <workItem from="1545386967649" duration="599000" />
+      <workItem from="1545391565753" duration="7660000" />
+      <workItem from="1545421096187" duration="7825000" />
+      <workItem from="1545648961050" duration="1314000" />
+      <workItem from="1545656266104" duration="1969000" />
+      <workItem from="1545742454023" duration="4115000" />
+      <workItem from="1545828567773" duration="6992000" />
+      <workItem from="1545915709076" duration="1079000" />
+      <workItem from="1545930043246" duration="598000" />
+      <workItem from="1545995478984" duration="2636000" />
+      <workItem from="1546513450789" duration="16293000" />
+      <workItem from="1546601077038" duration="21512000" />
+      <workItem from="1546951396789" duration="6473000" />
+      <workItem from="1547033808830" duration="1305000" />
+      <workItem from="1547048850831" duration="183000" />
+      <workItem from="1547049060237" duration="4964000" />
+      <workItem from="1547059879165" duration="2087000" />
+      <workItem from="1547109310460" duration="10841000" />
+      <workItem from="1547207832990" duration="49000" />
+      <workItem from="1547207912498" duration="16203000" />
+      <workItem from="1547296617401" duration="8690000" />
+      <workItem from="1547460918849" duration="9419000" />
+      <workItem from="1547482205683" duration="17490000" />
+      <workItem from="1547633780423" duration="4850000" />
+      <workItem from="1547649905034" duration="1424000" />
+      <workItem from="1547710973834" duration="7057000" />
+      <workItem from="1547727772628" duration="2290000" />
+      <workItem from="1547736322437" duration="1796000" />
+      <workItem from="1547743450362" duration="6448000" />
+      <workItem from="1547810759943" duration="13446000" />
+      <workItem from="1547831648818" duration="12462000" />
+      <workItem from="1547979114601" duration="4201000" />
+      <workItem from="1548060661238" duration="2090000" />
+      <workItem from="1548092869868" duration="677000" />
+      <workItem from="1548147299447" duration="2016000" />
+      <workItem from="1548187253663" duration="599000" />
+      <workItem from="1548227746304" duration="3337000" />
+      <workItem from="1548330560639" duration="5125000" />
+      <workItem from="1548403360923" duration="599000" />
+      <workItem from="1549013724630" duration="9839000" />
+      <workItem from="1549274234357" duration="2465000" />
+      <workItem from="1549287640876" duration="3989000" />
+      <workItem from="1549304028169" duration="849000" />
+      <workItem from="1549360658069" duration="12448000" />
+      <workItem from="1549404178399" duration="1067000" />
+      <workItem from="1549444231056" duration="1244000" />
+      <workItem from="1549464687885" duration="2368000" />
+      <workItem from="1549536375660" duration="1840000" />
+      <workItem from="1549568008429" duration="599000" />
+      <workItem from="1549623021371" duration="596000" />
+      <workItem from="1549647020387" duration="10717000" />
+      <workItem from="1549740702876" duration="599000" />
+      <workItem from="1549876184500" duration="1209000" />
+      <workItem from="1549909533430" duration="5838000" />
+      <workItem from="1549975968750" duration="1785000" />
+      <workItem from="1550051244436" duration="1198000" />
+      <workItem from="1550074633413" duration="599000" />
+      <workItem from="1550154450103" duration="597000" />
+      <workItem from="1550175085749" duration="596000" />
+      <workItem from="1550486163217" duration="411000" />
+      <workItem from="1550573546640" duration="5992000" />
+      <workItem from="1550608238531" duration="830000" />
+      <workItem from="1550662154987" duration="596000" />
+      <workItem from="1550672718006" duration="697000" />
+      <workItem from="1550757472765" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="443395000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022307" side_tool="true" weight="0.16901408" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49776927" visible="true" weight="0.31959912" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.21861058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2268961" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32950923" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32936078" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="7" sideWeight="0.49840662" weight="0.0389755" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26131293" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.33715743" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32936078" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32950923" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49776927" visible="true" weight="0.22101842" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5022307" side_tool="true" weight="0.16901408" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.49840662" weight="0.040086675" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_vars.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/style-coming-soon.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_media.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/scss-components/_home-bg.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/_wp-styles/_404.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/markup/calculator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3210">
+          <caret line="214" column="59" selection-start-line="214" selection-start-column="59" selection-end-line="214" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/scss/style-calculator.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/js/range-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/vlad/js/calculator-page.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/benefits-icon/benefit-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/img/slider-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_range-slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="94" column="12" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-home.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret column="20298" selection-start-column="20298" selection-end-column="20298" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_features.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-coming-soon.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_main-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="277" column="16" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-blog" />
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-404.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="132" column="12" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/scripts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="500" selection-start-line="500" selection-end-line="500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-blog.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="276" column="3" selection-start-line="276" selection-start-column="3" selection-end-line="276" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_calculator.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1568">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_plans-calculator.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/scraping-modal.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scraping-modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/_wp-styles/front-page-sections/_plans.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="245" column="13" selection-start-line="245" selection-start-column="13" selection-end-line="245" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-modal.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/libs/responsive-nav/bower.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-line="20" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/range-slider-dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/range-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scraping-modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="260" column="9" selection-start-line="260" selection-start-column="9" selection-end-line="260" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-calculator.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/scss-components/_range-slider-dashboard.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="125" column="18" lean-forward="true" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-calculator.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret column="1323" selection-end-column="55000" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="484" column="77" selection-start-line="484" selection-start-column="77" selection-end-line="484" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/scss/style-calculator-2.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9735">
+          <caret line="649" selection-start-line="649" selection-end-line="649" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/css/style-calculator-2.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret column="4456" selection-end-column="11831" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-frontend/optimized_start_template/app/js/calculator-home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
